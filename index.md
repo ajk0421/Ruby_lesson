@@ -35,5 +35,5 @@
 
  # 目次
 
-* [オブジェクトとクラスとは]()
+* [オブジェクトとクラスとは](https://github.com/ajk0421/Ruby_lesson/blob/master/curriculum/%E6%95%99%E6%9D%901.md)
 

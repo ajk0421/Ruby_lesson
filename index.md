@@ -29,5 +29,5 @@
 
  # 目次
 
-1.[オブジェクトとクラス、そしてメソッドとは](https://github.com/ajk0421/Ruby_lesson/blob/master/curriculum/%E6%95%99%E6%9D%901.md)
+1.[オブジェクトとクラス、そしてメソッドとは](https://github.com/ajk0421/Ruby_lesson/blob/master/curriculum/1.md)
 

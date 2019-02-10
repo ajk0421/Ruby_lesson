@@ -12,12 +12,14 @@
 
 
 
-あと
+あと、以下の条件を前提に話していきます。
 
-- 手元にコードを書ける環境がある
-- ターミナルでRubyファイルを実行出来る
+* 手元にテキストエディタがある
+* Rubyファイルを実行出来る
 
-ということで話していきます。こちらまだの方は用意してください。やり方が分からない場合は質問してくださいー！！
+このへんのやり方は `サロン内教材`にありますので、そちらを参考にして下さい！
+
+
 
 質問や分かりづらい点などはチャンネル、または僕に直接を連絡を下さい！
 
@@ -27,8 +29,5 @@
 
  # 目次
 
-1.[オブジェクトとクラスとは](https://github.com/ajk0421/Ruby_lesson/blob/master/curriculum/%E6%95%99%E6%9D%901.md)
+1.[オブジェクトとクラス、そしてメソッドとは](https://github.com/ajk0421/Ruby_lesson/blob/master/curriculum/%E6%95%99%E6%9D%901.md)
 
-
-
-https://github.com/yryuu/web-server-create/blob/master/img/port.png
